@@ -1,0 +1,13 @@
+.main-container {
+  color: #e11867;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #f5f5f5;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  padding-left: 3rem;
+  padding-right: 3rem;
+  gap: 1rem;
+  box-shadow: 0px 30px 0px -20px;
+}
